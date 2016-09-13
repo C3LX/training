@@ -8,7 +8,7 @@ For information to be considered PHI, it must meet all of the following three co
 2. The information is related to past, present or future health care or payment for that health care.
 3. The information identifies a member or patient, or there is enough information to be able to identify the individual.
 
-Health information that is not linked to an individual by one or more of the 18 HIPAA identifiers (see the next section) and for which there is no reasonable basis to believe that the information can be used to identify the individual is not protected health information.Individually identifiable health information ceases to be PHI 50 years after death.
+Health information that is not linked to an individual by one or more of the 18 HIPAA identifiers (see the next section) and for which there is no reasonable basis to believe that the information can be used to identify the individual is not protected health information. Individually identifiable health information ceases to be PHI 50 years after death.
 
 PHI can be in oral, written or electronic form.
 
