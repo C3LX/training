@@ -1,6 +1,6 @@
 ## Security
 
-This set of questions will help you guage your understanding of the physical security requirements under HIPAA and the Catalyze policies in place to meet them.
+This set of questions will help you guage your understanding of the physical security requirements under HIPAA and the C3LX policies in place to meet them.
 
 
 ---
