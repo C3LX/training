@@ -1,0 +1,9 @@
+# C3LX Breach Policy
+
+C3LX has a formal breach notification policy that addresses the requirements of notifying affected individuals and customers of a suspected breach of ePHI. These policies outline the relevant and responsible parties in case of a breach, forensics work to discover extent of breach, reason for breach, correction of infrastructure to prevent future breach, and requirements of notifying customers of a breach within 24 hours. C3LX is a defined Business Associate or subcontractor according to HIPAA regulations and the specific customer relationship.
+
+C3LX has Breach Notification policies in place and they include a brief description of the breach, including the date of the breach and the date of the discovery of the breach, if known. C3LX breach notification policies include a description of the types of unsecured protected health information that were involved in the breach (such as whether full name, Social Security number, date of birth, home address, account number, diagnosis, disability code or other types of PII were involved) and what the source of the breach was. Our breach notification policies include steps the individual should take to protect themselves from potential harm resulting from the breach. Our policies also provide the contact procedures for individuals to ask questions or learn additional information, which includes an e-mail address, Web site, and postal address.
+
+At C3LX we have both a breach policy and a breach checklist that we can follow in the case of a breach. If you want to learn more about our policies for handling breaches, our policies in general are accessible [here](http://www.c3lx.com/policies) and the Breach Policy specifically is accessible [here](http://www.c3lx.com/policies#breach-policy).
+
+Please ensure that you have read through it.
