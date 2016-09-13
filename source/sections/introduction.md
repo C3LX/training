@@ -20,13 +20,10 @@ The training covers the following topics:
 * How did the HITECH Act change HIPAA;
 * What is expected of workforce members with acess to systems that store PHI;
 	* What are the sanctions for knowingly violating HIPAA;
-* How does Catalyze address compliance.
+* How does C3LX address compliance.
 
 *********************
-We are in the business of providing compliant infrastructure to our customers so that they do not have to worry about the nuances of devOps and scaling and managing infrastructure - all they have to worry about is their application - its capabilities and its security and their own internal policies. We take care of everything else.
-
-
-So why is HIPAA training important? The rationale is best explained by this quote from Cory Doctorow -
+Why is HIPAA training important? The rationale is best explained by this quote from Cory Doctorow -
 
 *We should treat personal electronic data with the same care and respect as weapons-grade plutonium -- it is dangerous, long-lasting and once it has leaked, there's no getting it back.*
 
@@ -34,7 +31,7 @@ The goal of this training is to ensure that you understand the importance (and w
 
 1. Ways to prevent accidental and intentional misuse of senstitive data
 2. Ways to make sensitive data secure without it being too onerous
-3. The fact that it's not just about complying with some lengthy regulations - **it is about doing the right thing**. Our customers have entrusted us with their and their customers' sensitive data and we have a duty to protect that to the best of our abilities.
+3. The fact that it's not just about complying with some lengthy regulations - **it is about doing the right thing**. Our users have entrusted us with their sensitive data, and our clients have entrusted us with their customers. We have a duty to protect that to the best of our abilities.
 4. There are significant penalties associated with non-compliance to organizations and employees of those organizations. Lack of attention will impact not only us but our customers.
 
 So please - take the time to read through this carefully.
@@ -42,4 +39,4 @@ So please - take the time to read through this carefully.
 
 *********************
 
-Original material and content was created by [Catalyze, Inc,](https://catalyze.io) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [training@catalyze.io](mailto:training@catalyze.io) with any questions or problems accessing the training.
+Original material and content was created by [Catalyze, Inc,](https://catalyze.io) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [zachjohnson@c3lx.com](mailto:zachjohnson@c3lx.com) with any questions or problems accessing the training.
