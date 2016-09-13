@@ -1,6 +1,6 @@
 ## Protecting Health Information
 
-This set of questions is to help you guage your understanding of the privacy rule and the regulations governing protected health information and the Catalyze policies in place to address them.
+This set of questions is to help you guage your understanding of the privacy rule and the regulations governing protected health information and the C3LX policies in place to address them.
 
 ---
 
@@ -100,7 +100,7 @@ Who protects PHI?
 	<blockquote><p>The government protects PHI through the HIPAA regulations. Catalyze and you are required to protect health information through its practices and compliance with the HIPAA regulations.</p></blockquote>
 </div>
 
-If you suspect someone is violating the Catalyze privacy policy, you should:
+If you suspect someone is violating the C3LX privacy policy, you should:
 
 - <input type="checkbox"> `Say nothing`
 - <input type="checkbox"> `Report the activity to your supervisor for further follow-up`
