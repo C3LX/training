@@ -97,7 +97,7 @@ Who protects PHI?
 
 <div class="reveal-answer">
 	<button class="button">Reveal Answer</button>
-	<blockquote><p>The government protects PHI through the HIPAA regulations. Catalyze and you are required to protect health information through its practices and compliance with the HIPAA regulations.</p></blockquote>
+	<blockquote><p>The government protects PHI through the HIPAA regulations. C3LX and you are required to protect health information through its practices and compliance with the HIPAA regulations.</p></blockquote>
 </div>
 
 If you suspect someone is violating the C3LX privacy policy, you should:
