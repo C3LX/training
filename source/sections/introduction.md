@@ -39,4 +39,5 @@ So please - take the time to read through this carefully.
 
 *********************
 
-Original material and content was created by [Catalyze, Inc,](https://catalyze.io) and is released as open source. Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [zachjohnson@c3lx.com](mailto:zachjohnson@c3lx.com) with any questions or problems accessing the training.
+This original material and content was created by [Catalyze, Inc,](https://catalyze.io) and is released as open source.
+Available educational material for HIPAA is largely outdated in its coverage of technology and utility to vendors is extremely limited. The goal of releasing this as open source is that the growing community of healthcare companies can contribute, enrich, and keep it relevant over time. Please email [zachjohnson@c3lx.com](mailto:zachjohnson@c3lx.com) with any questions or problems accessing the training.
