@@ -20,10 +20,10 @@ Areas people sometimes neglect are office security and workstation security. The
 
 ## Technical
 
-The technical category of safeguards is usually what people think of when they think of securing ePHI. The biggest areas are encryption, access controls, and auditing. With encryption, it has to be end to end, and it has to be at rest. At rest is typically harder. Catalyze has found the need to use high performance SSD drives to improve performance issues that arise with encrypting data at rest.
+The technical category of safeguards is usually what people think of when they think of securing ePHI. The biggest areas are encryption, access controls, and auditing. With encryption, it has to be end to end, and it has to be at rest. At rest is typically harder. The people at Catalyze have found the need to use high performance SSD drives to improve performance issues that arise with encrypting data at rest.
 
 For access controls and logging, basically all activity of servers should be logged and those logs should be monitored with appropriate alerting. All API calls should also be logged, including what was accessed (with ePHI at times), by whom, and when. It requires a lot of time and effort to build a powerful and flexible unified logging solution to meet the requirements in this area.
 
 Beyond the three areas above, there are a few miscellaneous requirements in the security rule. Those additional requirements relate to signing business associate agreements and having policies to, well, manage your policies.
 
-That's a very high, high-level overview of the Security Rule. You can see pretty detailed information about the Security Rule, and how Catalyze addresses the different specifications, on [our HIPAA page](http://www.c3lx.com/policies).
+That's a very high, high-level overview of the Security Rule. You can see pretty detailed information about the Security Rule, and how C3LX addresses the different specifications, on [our HIPAA page](http://www.c3lx.com/policies).
